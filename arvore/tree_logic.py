@@ -1,7 +1,7 @@
 # Durante o desenvolvimento, surgiram dúvidas sobre lógica, sintaxe e fluxo de navegação na árvore. 
 # A IA (ChatGPT) foi usada apenas para validar sintaxe, esclarecer erros e auxiliar na organização do raciocínio.
 # Compreensão da diferença entre os operadores is e in.
-# Durante o processo foi entendido compreendido o aprimoramento da normalização de strings para tornar as entradas do usuário mais robustas.
+# Durante o processo foi compreendido o aprimoramento da normalização de strings para tornar as entradas do usuário mais robustas.
 # Esclarecimento de erros presentes no código.
 # Validação da correção e coerência da abordagem adotada.
 # Prevenção de equívocos relacionados à sintaxe da linguagem.
