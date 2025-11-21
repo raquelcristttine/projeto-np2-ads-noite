@@ -1,7 +1,7 @@
 🧮 Avaliação Final — Algoritmos Avançados em Python
 
-Curso: Análise e Desenvolvimento de Sistemas – UNIPLAN
-Professor: Breno Abreu
+**Curso**: Análise e Desenvolvimento de Sistemas – UNIPLAN
+**Professor:** Breno Abreu
 Semestres: 1º e 2º
 Linguagem: Python
 Tema central: Estruturas de dados — Árvores Binárias e Grafos
