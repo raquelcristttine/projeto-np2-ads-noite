@@ -1,18 +1,24 @@
-🧮 Avaliação Final — Algoritmos Avançados em Python
+🧮 **Avaliação Final — Algoritmos Avançados em Python**
 
 **Curso**: Análise e Desenvolvimento de Sistemas – UNIPLAN
 **Professor:** Breno Abreu
-Semestres: 1º e 2º
-Linguagem: Python
-Tema central: Estruturas de dados — Árvores Binárias e Grafos
-Período de entrega: Semana de Avaliações Finais
+**Semestres:** 1º e 2º
+**Linguagem:** Python
+**Tema central:** Estruturas de dados — Árvores Binárias e Grafos
+**Período de entrega:** Semana de Avaliações Finais
 
-Grupo:
+**Grupo:**
+  
 Ana Carolina Barcellos Rangel de Araújo – 02410041319
+  
 Kamily Vitória Silva de Souza – 02410041285
+  
 Lucas Santos De Souza – 02410040975
+  
 Maria Clara Felix Dias – 02410041259
+  
 Raquel Cristine de Oliveira Silveira – 02410041325
+  
 
 ---
 
