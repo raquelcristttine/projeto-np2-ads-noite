@@ -5,7 +5,12 @@
 **Linguagem:** Python  
 **Tema central:** Estruturas de dados — Árvores Binárias e Grafos  
 **Período de entrega:** Semana de Avaliações Finais  
-
+** Grupo: 
+Ana Carolina Barcellos Rangel de Araújo - 02410041319
+Kamily Vitória Silva de Souza - 02410041285
+Lucas Santos De Souza - 02410040975
+Maria Clara Felix Dias - 02410041259
+Raquel Cristine de Oliveira Silveira - 02410041325
 ---
 
 ## 🎯 Contexto do Projeto
@@ -60,32 +65,7 @@ Esta atividade envolve **etapas integradas**, simulando o processo real de traba
 
 > 💬 *Observação:* Alunos que não concluírem o PR até o prazo terão 2 pontos reduzidos na média final, correspondentes à ausência de entrega formal.
 
----
 
-## 🧠 Estrutura de Pontuação (Resumo)
-
-| Critério                          | Pontos | Descrição                                                                 |
-|----------------------------------|--------|---------------------------------------------------------------------------|
-| Implementação e correção do código | 5,0   | Estrutura funcional, legibilidade e execução correta                      |
-| Relato reflexivo no PR             | 3,0   | Clareza na explicação, uso ético da IA e raciocínio lógico                |
-| Registro no Teams                  | 2,0   | Evidência de entrega e conformidade com o fluxo institucional             |
-| **Total Máximo**                   | **10,0** | Média mínima para aprovação: **5,0**                                     |
-
----
-
-## 📤 Entrega
-1. Faça o **fork** deste repositório.  
-2. Trabalhe em seu **fork pessoal**, fazendo commits progressivos.  
-3. Ao concluir, envie um **Pull Request (PR)** para este repositório original.  
-4. Poste o **link do PR** (ou print) no Teams, conforme instruções.  
-
----
-
-## 📚 Dicas Finais
-- Priorize **clareza e comentários no código**.  
-- Prefira **listas simples** ao invés de estruturas complexas (como `deque`), para garantir compatibilidade.  
-- Teste em máquinas modestas — o código deve rodar bem em **Windows** com Python 3.10+.  
-- Lembre-se: o objetivo é **mostrar que você entendeu o processo**, não apenas entregar um código que “roda”.
 
 ---
 
