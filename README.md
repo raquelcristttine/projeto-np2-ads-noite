@@ -4,8 +4,9 @@
 **Semestres:** 1º e 2º  
 **Linguagem:** Python  
 **Tema central:** Estruturas de dados — Árvores Binárias e Grafos  
-**Período de entrega:** Semana de Avaliações Finais  
-Grupo: 
+**Período de entrega:** Semana de Avaliações Finais
+
+Grupo:
 Ana Carolina Barcellos Rangel de Araújo - 02410041319
 Kamily Vitória Silva de Souza - 02410041285
 Lucas Santos De Souza - 02410040975
